@@ -1,0 +1,21 @@
+class Solution {
+    public int gcd(int a,int b){
+        if(b==0)return a;
+        return gcd(b,a%b);
+    }
+    public long countPairs(int[] nums, int k) {
+        long count=0;
+        int n = nums.length;
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        for(int i:nums){
+            int gcdnum= gcd(i,k);
+            for(Map.Entry<Integer,Integer> entry : hm.entrySet()){
+                if(((long)gcdnum*entry.getKey())%k==0){
+                    count+=entry.getValue();
+                }
+            }
+            hm.put(gcdnum,hm.getOrDefault(gcdnum,0)+1);
+        }
+        return count;
+    }
+}
