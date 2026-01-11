@@ -1,0 +1,76 @@
+
+class Solution {
+
+    public long maximumSubarraySum(int[] a, int k) {
+
+         HashSet<Integer> s=new HashSet<>();
+
+        long sum=0;
+
+        long temp=0;
+
+        int i,j;
+
+        i=0;
+
+        j=0;
+
+        while(j<=a.length-1){
+
+        if(s.contains(a[j])){
+
+            while(a[i]!=a[j]){
+
+                sum=sum-a[i];
+
+                s.remove(a[i]);
+
+                i++;
+
+                
+
+            }
+
+            sum=sum-a[i];
+
+            s.remove(a[i]);
+
+            i++;
+
+        }
+
+        if(s.size()<k){
+
+            sum=sum+a[j];
+
+            s.add(a[j]);
+
+           // System.out.println(s);
+
+        }
+
+        if(s.size()==k){
+
+           // System.out.println(s+" "+sum);
+
+            temp=Math.max(sum,temp);
+
+            sum=sum-a[i];
+
+            s.remove(a[i]);
+
+            i++;
+
+        }
+
+        j++;   
+
+        
+
+    }
+
+        return temp;
+
+    }
+
+}
