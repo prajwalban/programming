@@ -1,0 +1,102 @@
+class Solution {
+
+    public int romanToInt(String s) {
+
+        
+
+        HashMap<String,Integer> h=new HashMap<>();
+
+        h.put("I",1);
+
+        h.put("V",5);
+
+        h.put("X",10);
+
+        h.put("L",50);
+
+        h.put("C",100);
+
+        h.put("D",500);
+
+        h.put("M",1000);
+
+        int num=0;
+
+        char[] a=s.toCharArray();
+
+        for(char i=0;i<=a.length-1;i++){
+
+                        if(i<=a.length-2 && a[i]=='C' && a[i+1]=='M'){
+
+                        i++;
+
+                        num=num+900;
+
+                        continue;
+
+                }
+
+            if(i<=a.length-2 && a[i]=='C' && a[i+1]=='D'){
+
+                        i++;
+
+                        num=num+400;
+
+                        continue;
+
+                }
+
+
+            if(i<=a.length-2 && a[i]=='X' && a[i+1]=='C'){
+
+                        i++;
+
+                        num=num+90;
+
+                        continue;
+
+                }
+
+                 if(i<=a.length-2 && a[i]=='X' && a[i+1]=='L'){
+
+                        i++;
+
+                        num=num+40;
+
+                        continue;
+
+                }
+
+            if(i<=a.length-2 && a[i]=='I' && a[i+1]=='V'){
+
+                        i++;
+
+                        num=num+4;
+
+                        continue;
+
+                 }
+
+                if(i<=a.length-2 && a[i]=='I' && a[i+1]=='X'){
+
+                        i++;
+
+                        num=num+9;
+
+                        continue;
+
+                }
+
+                num=num+h.get(String.valueOf(a[i]));
+
+
+
+        }
+
+        System.out.println(num);
+
+        return num;
+
+    }
+
+}
