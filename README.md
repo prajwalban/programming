@@ -17,6 +17,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/prajwalban/programming/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/prajwalban/programming/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
 ## String
@@ -40,4 +41,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
