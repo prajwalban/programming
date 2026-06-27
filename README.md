@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalban/programming/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
