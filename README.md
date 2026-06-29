@@ -38,6 +38,7 @@
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +92,5 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/prajwalban/programming/tree/main/0041-first-missing-positive/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalban/programming/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
