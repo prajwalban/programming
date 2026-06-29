@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/prajwalban/programming/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/prajwalban/programming/tree/main/0066-plus-one/) | Easy |
 | [0162-find-peak-element](https://github.com/prajwalban/programming/tree/main/0162-find-peak-element/) | Medium |
+| [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/prajwalban/programming/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
@@ -92,5 +93,10 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/prajwalban/programming/tree/main/0041-first-missing-positive/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalban/programming/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
