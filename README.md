@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalban/programming/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalban/programming/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalban/programming/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/prajwalban/programming/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -81,6 +82,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalban/programming/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
