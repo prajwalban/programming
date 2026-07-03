@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prajwalban/programming/tree/main/0058-length-of-last-word/) | Easy |
+| [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalban/programming/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/prajwalban/programming/tree/main/0041-first-missing-positive/) | Hard |
+| [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/prajwalban/programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalban/programming/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
@@ -143,6 +145,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalban/programming/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Greedy
