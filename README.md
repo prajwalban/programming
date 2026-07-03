@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalban/programming/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalban/programming/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/prajwalban/programming/tree/main/0066-plus-one/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalban/programming/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
@@ -142,6 +144,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/prajwalban/programming/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
