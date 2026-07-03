@@ -55,6 +55,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prajwalban/programming/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/prajwalban/programming/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -122,6 +123,7 @@
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/prajwalban/programming/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalban/programming/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -142,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/prajwalban/programming/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
