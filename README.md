@@ -39,6 +39,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/prajwalban/programming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
