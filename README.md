@@ -92,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/prajwalban/programming/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/prajwalban/programming/tree/main/0292-nim-game/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -156,6 +157,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -320,4 +322,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
