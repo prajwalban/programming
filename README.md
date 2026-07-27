@@ -78,6 +78,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prajwalban/programming/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
+| [0205-isomorphic-strings](https://github.com/prajwalban/programming/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/prajwalban/programming/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
@@ -170,6 +171,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/prajwalban/programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/prajwalban/programming/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalban/programming/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/prajwalban/programming/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/prajwalban/programming/tree/main/0290-word-pattern/) | Easy |
