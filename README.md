@@ -46,6 +46,7 @@
 | [1748-sum-of-unique-elements](https://github.com/prajwalban/programming/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/prajwalban/programming/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
