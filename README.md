@@ -41,6 +41,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalban/programming/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajwalban/programming/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalban/programming/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/prajwalban/programming/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/prajwalban/programming/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/prajwalban/programming/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -56,6 +57,7 @@
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalban/programming/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/prajwalban/programming/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/prajwalban/programming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
@@ -194,6 +196,7 @@
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/prajwalban/programming/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/prajwalban/programming/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
