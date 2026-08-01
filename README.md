@@ -100,6 +100,7 @@
 | [0520-detect-capital](https://github.com/prajwalban/programming/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -203,6 +204,7 @@
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
