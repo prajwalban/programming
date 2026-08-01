@@ -105,6 +105,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/prajwalban/programming/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajwalban/programming/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/prajwalban/programming/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
