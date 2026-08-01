@@ -136,6 +136,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajwalban/programming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/prajwalban/programming/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalban/programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/prajwalban/programming/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalban/programming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prajwalban/programming/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -389,4 +390,8 @@
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prajwalban/programming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/prajwalban/programming/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
