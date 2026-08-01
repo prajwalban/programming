@@ -142,6 +142,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/prajwalban/programming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prajwalban/programming/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prajwalban/programming/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/prajwalban/programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prajwalban/programming/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## String Matching
@@ -396,4 +397,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/prajwalban/programming/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/prajwalban/programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
