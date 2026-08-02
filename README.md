@@ -28,6 +28,7 @@
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalban/programming/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
@@ -163,6 +164,7 @@
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
