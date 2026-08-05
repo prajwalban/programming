@@ -83,6 +83,7 @@
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prajwalban/programming/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/prajwalban/programming/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalban/programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -104,6 +105,7 @@
 | [0409-longest-palindrome](https://github.com/prajwalban/programming/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalban/programming/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prajwalban/programming/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/prajwalban/programming/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/prajwalban/programming/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
