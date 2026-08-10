@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/prajwalban/programming/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prajwalban/programming/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalban/programming/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -172,6 +174,7 @@
 | [0367-valid-perfect-square](https://github.com/prajwalban/programming/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/prajwalban/programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prajwalban/programming/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prajwalban/programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -295,6 +298,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/prajwalban/programming/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalban/programming/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
