@@ -132,6 +132,7 @@
 | [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/prajwalban/programming/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prajwalban/programming/tree/main/0367-valid-perfect-square/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/prajwalban/programming/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1025-divisor-game](https://github.com/prajwalban/programming/tree/main/1025-divisor-game/) | Easy |
@@ -145,6 +146,7 @@
 | [0078-subsets](https://github.com/prajwalban/programming/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/prajwalban/programming/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/prajwalban/programming/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/prajwalban/programming/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalban/programming/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search
