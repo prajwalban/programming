@@ -58,6 +58,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prajwalban/programming/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1816-truncate-sentence](https://github.com/prajwalban/programming/tree/main/1816-truncate-sentence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
@@ -123,6 +124,7 @@
 | [1816-truncate-sentence](https://github.com/prajwalban/programming/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/prajwalban/programming/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
