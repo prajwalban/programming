@@ -40,6 +40,7 @@
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/prajwalban/programming/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/prajwalban/programming/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -92,6 +93,7 @@
 | [0443-string-compression](https://github.com/prajwalban/programming/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/prajwalban/programming/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalban/programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -262,6 +264,7 @@
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/prajwalban/programming/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalban/programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
