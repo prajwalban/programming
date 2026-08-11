@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/prajwalban/programming/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0274-h-index](https://github.com/prajwalban/programming/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/prajwalban/programming/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalban/programming/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -273,6 +274,7 @@
 | [0164-maximum-gap](https://github.com/prajwalban/programming/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/prajwalban/programming/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
+| [0274-h-index](https://github.com/prajwalban/programming/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prajwalban/programming/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/prajwalban/programming/tree/main/0389-find-the-difference/) | Easy |
@@ -433,6 +435,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/prajwalban/programming/tree/main/0274-h-index/) | Medium |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
