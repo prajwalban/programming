@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/prajwalban/programming/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalban/programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/prajwalban/programming/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/prajwalban/programming/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/prajwalban/programming/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/prajwalban/programming/tree/main/0066-plus-one/) | Easy |
@@ -399,6 +400,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/prajwalban/programming/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/prajwalban/programming/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/prajwalban/programming/tree/main/0078-subsets/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
