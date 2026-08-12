@@ -141,6 +141,7 @@
 | [1816-truncate-sentence](https://github.com/prajwalban/programming/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/prajwalban/programming/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/prajwalban/programming/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
