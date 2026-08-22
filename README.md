@@ -67,6 +67,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prajwalban/programming/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1816-truncate-sentence](https://github.com/prajwalban/programming/tree/main/1816-truncate-sentence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajwalban/programming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/prajwalban/programming/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -152,6 +153,7 @@
 | [1816-truncate-sentence](https://github.com/prajwalban/programming/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajwalban/programming/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/prajwalban/programming/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajwalban/programming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/prajwalban/programming/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
