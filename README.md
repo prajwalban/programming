@@ -129,6 +129,7 @@
 | [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/prajwalban/programming/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/prajwalban/programming/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/prajwalban/programming/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/prajwalban/programming/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/prajwalban/programming/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/prajwalban/programming/tree/main/0383-ransom-note/) | Easy |
@@ -247,6 +248,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/prajwalban/programming/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/prajwalban/programming/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalban/programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -280,6 +282,7 @@
 | [0217-contains-duplicate](https://github.com/prajwalban/programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/prajwalban/programming/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/prajwalban/programming/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prajwalban/programming/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/prajwalban/programming/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
