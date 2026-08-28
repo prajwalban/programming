@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/prajwalban/programming/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prajwalban/programming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prajwalban/programming/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/prajwalban/programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/prajwalban/programming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajwalban/programming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -387,6 +388,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/prajwalban/programming/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prajwalban/programming/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -424,6 +426,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -438,6 +441,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
@@ -445,6 +449,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
