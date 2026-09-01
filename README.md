@@ -593,4 +593,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prajwalban/programming/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/prajwalban/programming/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
