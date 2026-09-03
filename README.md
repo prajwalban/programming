@@ -250,6 +250,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/prajwalban/programming/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/prajwalban/programming/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
@@ -449,6 +450,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/prajwalban/programming/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/prajwalban/programming/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/prajwalban/programming/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
