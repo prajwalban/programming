@@ -83,6 +83,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalban/programming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/prajwalban/programming/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajwalban/programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/prajwalban/programming/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Prefix Sum
@@ -269,6 +270,7 @@
 | [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajwalban/programming/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +344,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/prajwalban/programming/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajwalban/programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
