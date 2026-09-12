@@ -109,6 +109,7 @@
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prajwalban/programming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/prajwalban/programming/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/prajwalban/programming/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalban/programming/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalban/programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -243,6 +244,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/prajwalban/programming/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajwalban/programming/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/prajwalban/programming/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/prajwalban/programming/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalban/programming/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/prajwalban/programming/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -254,6 +256,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/prajwalban/programming/tree/main/0155-min-stack/) | Medium |
@@ -266,6 +269,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prajwalban/programming/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/prajwalban/programming/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
