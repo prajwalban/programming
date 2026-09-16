@@ -107,6 +107,7 @@
 | [0027-remove-element](https://github.com/prajwalban/programming/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/prajwalban/programming/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prajwalban/programming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/prajwalban/programming/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
@@ -241,6 +242,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prajwalban/programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwalban/programming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/prajwalban/programming/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/prajwalban/programming/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajwalban/programming/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prajwalban/programming/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
