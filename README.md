@@ -166,6 +166,7 @@
 | [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/prajwalban/programming/tree/main/0796-rotate-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/prajwalban/programming/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/prajwalban/programming/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -292,6 +293,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/prajwalban/programming/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/prajwalban/programming/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -345,6 +347,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/prajwalban/programming/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalban/programming/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/prajwalban/programming/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajwalban/programming/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/prajwalban/programming/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
