@@ -46,6 +46,7 @@
 | [0645-set-mismatch](https://github.com/prajwalban/programming/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/prajwalban/programming/tree/main/0697-degree-of-an-array/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
@@ -335,6 +336,7 @@
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/prajwalban/programming/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/prajwalban/programming/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
