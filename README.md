@@ -479,6 +479,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prajwalban/programming/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/prajwalban/programming/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prajwalban/programming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
@@ -507,6 +508,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prajwalban/programming/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/prajwalban/programming/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prajwalban/programming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
@@ -605,6 +607,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalban/programming/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalban/programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prajwalban/programming/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/prajwalban/programming/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prajwalban/programming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
@@ -627,6 +630,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prajwalban/programming/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/prajwalban/programming/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
