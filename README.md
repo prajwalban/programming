@@ -50,6 +50,7 @@
 | [0706-design-hashmap](https://github.com/prajwalban/programming/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/prajwalban/programming/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
@@ -231,6 +232,7 @@
 | [0441-arranging-coins](https://github.com/prajwalban/programming/tree/main/0441-arranging-coins/) | Easy |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/prajwalban/programming/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prajwalban/programming/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalban/programming/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
