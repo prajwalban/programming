@@ -210,6 +210,7 @@
 | [0078-subsets](https://github.com/prajwalban/programming/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/prajwalban/programming/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/prajwalban/programming/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/prajwalban/programming/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/prajwalban/programming/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/prajwalban/programming/tree/main/0389-find-the-difference/) | Easy |
