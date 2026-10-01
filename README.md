@@ -193,6 +193,7 @@
 | [0168-excel-sheet-column-title](https://github.com/prajwalban/programming/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/prajwalban/programming/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/prajwalban/programming/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prajwalban/programming/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/prajwalban/programming/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/prajwalban/programming/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -295,6 +296,7 @@
 | [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/prajwalban/programming/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/prajwalban/programming/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
