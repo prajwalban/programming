@@ -158,6 +158,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalban/programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prajwalban/programming/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prajwalban/programming/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/prajwalban/programming/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/prajwalban/programming/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/prajwalban/programming/tree/main/0415-add-strings/) | Easy |
@@ -197,6 +198,7 @@
 | [0367-valid-perfect-square](https://github.com/prajwalban/programming/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/prajwalban/programming/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/prajwalban/programming/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prajwalban/programming/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/prajwalban/programming/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/prajwalban/programming/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/prajwalban/programming/tree/main/0441-arranging-coins/) | Easy |
@@ -220,6 +222,7 @@
 | [0287-find-the-duplicate-number](https://github.com/prajwalban/programming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/prajwalban/programming/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/prajwalban/programming/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prajwalban/programming/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/prajwalban/programming/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalban/programming/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search
