@@ -39,6 +39,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalban/programming/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/prajwalban/programming/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
@@ -167,6 +168,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/prajwalban/programming/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/prajwalban/programming/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0520-detect-capital](https://github.com/prajwalban/programming/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -552,6 +554,7 @@
 | [0152-maximum-product-subarray](https://github.com/prajwalban/programming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalban/programming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/prajwalban/programming/tree/main/1025-divisor-game/) | Easy |
 ## Backtracking
@@ -687,4 +690,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 <!---LeetCode Topics End-->
