@@ -172,6 +172,7 @@
 | [0520-detect-capital](https://github.com/prajwalban/programming/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/prajwalban/programming/tree/main/0796-rotate-string/) | Easy |
@@ -292,6 +293,7 @@
 | [0234-palindrome-linked-list](https://github.com/prajwalban/programming/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/prajwalban/programming/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prajwalban/programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Recursion
@@ -442,6 +444,7 @@
 | [0409-longest-palindrome](https://github.com/prajwalban/programming/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -556,6 +559,7 @@
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1025-divisor-game](https://github.com/prajwalban/programming/tree/main/1025-divisor-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -698,4 +702,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
