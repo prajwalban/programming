@@ -41,6 +41,7 @@
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/prajwalban/programming/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -169,6 +170,7 @@
 | [0443-string-compression](https://github.com/prajwalban/programming/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0500-keyboard-row](https://github.com/prajwalban/programming/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/prajwalban/programming/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -360,6 +362,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/prajwalban/programming/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/prajwalban/programming/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/prajwalban/programming/tree/main/0645-set-mismatch/) | Easy |
