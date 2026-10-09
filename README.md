@@ -183,6 +183,7 @@
 | [0796-rotate-string](https://github.com/prajwalban/programming/tree/main/0796-rotate-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/prajwalban/programming/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/prajwalban/programming/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -300,6 +301,7 @@
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prajwalban/programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -453,6 +455,7 @@
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -715,4 +718,5 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/prajwalban/programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
