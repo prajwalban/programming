@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0027-remove-element](https://github.com/prajwalban/programming/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalban/programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/prajwalban/programming/tree/main/0039-combination-sum/) | Medium |
@@ -39,6 +39,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalban/programming/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/prajwalban/programming/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prajwalban/programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/prajwalban/programming/tree/main/0500-keyboard-row/) | Easy |
@@ -96,8 +97,8 @@
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/prajwalban/programming/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0303-range-sum-query-immutable](https://github.com/prajwalban/programming/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/prajwalban/programming/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -109,8 +110,8 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/prajwalban/programming/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajwalban/programming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwalban/programming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/prajwalban/programming/tree/main/0027-remove-element/) | Easy |
@@ -144,8 +145,8 @@
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajwalban/programming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/prajwalban/programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -195,8 +196,8 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/prajwalban/programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/prajwalban/programming/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/prajwalban/programming/tree/main/0070-climbing-stairs/) | Easy |
@@ -211,6 +212,7 @@
 | [0412-fizz-buzz](https://github.com/prajwalban/programming/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/prajwalban/programming/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/prajwalban/programming/tree/main/0441-arranging-coins/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prajwalban/programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -222,8 +224,8 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalban/programming/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/prajwalban/programming/tree/main/3870-count-commas-in-range/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/prajwalban/programming/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/prajwalban/programming/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/prajwalban/programming/tree/main/0191-number-of-1-bits/) | Easy |
@@ -235,8 +237,8 @@
 | [0645-set-mismatch](https://github.com/prajwalban/programming/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalban/programming/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalban/programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prajwalban/programming/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajwalban/programming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -263,13 +265,13 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prajwalban/programming/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajwalban/programming/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/prajwalban/programming/tree/main/0796-rotate-string/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/prajwalban/programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwalban/programming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/prajwalban/programming/tree/main/0061-rotate-list/) | Medium |
@@ -286,8 +288,8 @@
 | [0328-odd-even-linked-list](https://github.com/prajwalban/programming/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/prajwalban/programming/tree/main/0706-design-hashmap/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prajwalban/programming/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -304,8 +306,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prajwalban/programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/prajwalban/programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/prajwalban/programming/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/prajwalban/programming/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -315,8 +317,8 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0299-bulls-and-cows](https://github.com/prajwalban/programming/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/prajwalban/programming/tree/main/0383-ransom-note/) | Easy |
@@ -330,20 +332,20 @@
 | [1748-sum-of-unique-elements](https://github.com/prajwalban/programming/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajwalban/programming/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [2427-number-of-common-factors](https://github.com/prajwalban/programming/tree/main/2427-number-of-common-factors/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0041-first-missing-positive](https://github.com/prajwalban/programming/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/prajwalban/programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -396,8 +398,8 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/prajwalban/programming/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/prajwalban/programming/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/prajwalban/programming/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -409,6 +411,7 @@
 | [0414-third-maximum-number](https://github.com/prajwalban/programming/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prajwalban/programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajwalban/programming/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/prajwalban/programming/tree/main/0645-set-mismatch/) | Easy |
@@ -432,8 +435,8 @@
 | [3536-maximum-product-of-two-digits](https://github.com/prajwalban/programming/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0076-minimum-window-substring](https://github.com/prajwalban/programming/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/prajwalban/programming/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/prajwalban/programming/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -446,8 +449,8 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0316-remove-duplicate-letters](https://github.com/prajwalban/programming/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/prajwalban/programming/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
@@ -458,12 +461,12 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prajwalban/programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/prajwalban/programming/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/prajwalban/programming/tree/main/0190-reverse-bits/) | Easy |
@@ -474,8 +477,8 @@
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prajwalban/programming/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prajwalban/programming/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -487,22 +490,22 @@
 | [1046-last-stone-weight](https://github.com/prajwalban/programming/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajwalban/programming/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/prajwalban/programming/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/prajwalban/programming/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prajwalban/programming/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prajwalban/programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -516,8 +519,8 @@
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/prajwalban/programming/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/prajwalban/programming/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/prajwalban/programming/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -525,14 +528,14 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/prajwalban/programming/tree/main/0706-design-hashmap/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -546,20 +549,20 @@
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalban/programming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajwalban/programming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/prajwalban/programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
@@ -572,52 +575,52 @@
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1025-divisor-game](https://github.com/prajwalban/programming/tree/main/1025-divisor-game/) | Easy |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/prajwalban/programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/prajwalban/programming/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/prajwalban/programming/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/prajwalban/programming/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/prajwalban/programming/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/prajwalban/programming/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalban/programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/prajwalban/programming/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/prajwalban/programming/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/prajwalban/programming/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/prajwalban/programming/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/prajwalban/programming/tree/main/1025-divisor-game/) | Easy |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/prajwalban/programming/tree/main/0148-sort-list/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prajwalban/programming/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/prajwalban/programming/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0274-h-index](https://github.com/prajwalban/programming/tree/main/0274-h-index/) | Medium |
 | [0912-sort-an-array](https://github.com/prajwalban/programming/tree/main/0912-sort-an-array/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/prajwalban/programming/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/prajwalban/programming/tree/main/0415-add-strings/) | Easy |
@@ -625,19 +628,19 @@
 | [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1672-richest-customer-wealth](https://github.com/prajwalban/programming/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/prajwalban/programming/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prajwalban/programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prajwalban/programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prajwalban/programming/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -649,44 +652,44 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prajwalban/programming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/prajwalban/programming/tree/main/0257-binary-tree-paths/) | Easy |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/prajwalban/programming/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/prajwalban/programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/prajwalban/programming/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/prajwalban/programming/tree/main/0509-fibonacci-number/) | Easy |
 ## Randomized
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/prajwalban/programming/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/prajwalban/programming/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/prajwalban/programming/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prajwalban/programming/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prajwalban/programming/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prajwalban/programming/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Treap
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prajwalban/programming/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/prajwalban/programming/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/prajwalban/programming/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/prajwalban/programming/tree/main/0182-duplicate-emails/) | Easy |
@@ -694,28 +697,28 @@
 | [0196-delete-duplicate-emails](https://github.com/prajwalban/programming/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/prajwalban/programming/tree/main/0197-rising-temperature/) | Easy |
 ## Manacher
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajwalban/programming/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0706-design-hashmap](https://github.com/prajwalban/programming/tree/main/0706-design-hashmap/) | Easy |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
 ## Knapsack Problem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 ## 0-1 Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/prajwalban/programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
