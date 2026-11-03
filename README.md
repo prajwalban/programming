@@ -133,6 +133,7 @@
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/prajwalban/programming/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/prajwalban/programming/tree/main/0455-assign-cookies/) | Easy |
+| [0541-reverse-string-ii](https://github.com/prajwalban/programming/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
@@ -176,6 +177,7 @@
 | [0474-ones-and-zeroes](https://github.com/prajwalban/programming/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0500-keyboard-row](https://github.com/prajwalban/programming/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/prajwalban/programming/tree/main/0520-detect-capital/) | Easy |
+| [0541-reverse-string-ii](https://github.com/prajwalban/programming/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
