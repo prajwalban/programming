@@ -136,6 +136,7 @@
 | [0541-reverse-string-ii](https://github.com/prajwalban/programming/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
+| [0696-count-binary-substrings](https://github.com/prajwalban/programming/tree/master/0696-count-binary-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/prajwalban/programming/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -182,6 +183,7 @@
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/prajwalban/programming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prajwalban/programming/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0696-count-binary-substrings](https://github.com/prajwalban/programming/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/prajwalban/programming/tree/main/0796-rotate-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
