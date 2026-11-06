@@ -85,6 +85,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajwalban/programming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/prajwalban/programming/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -146,6 +147,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/prajwalban/programming/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/prajwalban/programming/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/prajwalban/programming/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 |  |
@@ -199,6 +201,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajwalban/programming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/prajwalban/programming/tree/master/2000-reverse-prefix-of-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/prajwalban/programming/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
