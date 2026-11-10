@@ -100,6 +100,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/prajwalban/programming/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prajwalban/programming/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/prajwalban/programming/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prajwalban/programming/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
