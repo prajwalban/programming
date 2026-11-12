@@ -156,6 +156,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/prajwalban/programming/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajwalban/programming/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/prajwalban/programming/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prajwalban/programming/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
@@ -214,6 +215,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prajwalban/programming/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajwalban/programming/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/prajwalban/programming/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
@@ -651,6 +653,7 @@
 | [0657-robot-return-to-origin](https://github.com/prajwalban/programming/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/prajwalban/programming/tree/main/0682-baseball-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajwalban/programming/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Matrix
 |  |
 | ------- |
