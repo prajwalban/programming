@@ -55,6 +55,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/prajwalban/programming/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/prajwalban/programming/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prajwalban/programming/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/prajwalban/programming/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0846-hand-of-straights](https://github.com/prajwalban/programming/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
@@ -142,6 +143,7 @@
 | [0567-permutation-in-string](https://github.com/prajwalban/programming/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/prajwalban/programming/tree/main/0611-valid-triangle-number/) | Medium |
 | [0696-count-binary-substrings](https://github.com/prajwalban/programming/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/prajwalban/programming/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prajwalban/programming/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prajwalban/programming/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/prajwalban/programming/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -199,6 +201,7 @@
 | [0696-count-binary-substrings](https://github.com/prajwalban/programming/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/prajwalban/programming/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/prajwalban/programming/tree/main/0796-rotate-string/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/prajwalban/programming/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prajwalban/programming/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0942-di-string-match](https://github.com/prajwalban/programming/tree/master/0942-di-string-match) |
 | [1370-increasing-decreasing-string](https://github.com/prajwalban/programming/tree/main/1370-increasing-decreasing-string/) | Easy |
