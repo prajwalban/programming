@@ -96,6 +96,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prajwalban/programming/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajwalban/programming/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalban/programming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/prajwalban/programming/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/prajwalban/programming/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -117,6 +118,7 @@
 | [1732-find-the-highest-altitude](https://github.com/prajwalban/programming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/prajwalban/programming/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/prajwalban/programming/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prajwalban/programming/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -466,6 +469,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/prajwalban/programming/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalban/programming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prajwalban/programming/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwalban/programming/tree/main/3731-find-missing-elements/) | Easy |
@@ -496,6 +500,7 @@
 | [0942-di-string-match](https://github.com/prajwalban/programming/tree/master/0942-di-string-match) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prajwalban/programming/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Union-Find
 |  |
 | ------- |
