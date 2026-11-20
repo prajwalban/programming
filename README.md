@@ -97,6 +97,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prajwalban/programming/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajwalban/programming/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/prajwalban/programming/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalban/programming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/prajwalban/programming/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/prajwalban/programming/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -165,6 +166,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prajwalban/programming/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajwalban/programming/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prajwalban/programming/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2540-minimum-common-value](https://github.com/prajwalban/programming/tree/master/2540-minimum-common-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajwalban/programming/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/prajwalban/programming/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prajwalban/programming/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -299,6 +301,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prajwalban/programming/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/prajwalban/programming/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
 | ------- |
@@ -427,6 +430,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/prajwalban/programming/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajwalban/programming/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2540-minimum-common-value](https://github.com/prajwalban/programming/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalban/programming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwalban/programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/prajwalban/programming/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
