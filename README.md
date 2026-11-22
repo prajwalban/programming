@@ -98,6 +98,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prajwalban/programming/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajwalban/programming/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalban/programming/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/prajwalban/programming/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalban/programming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/prajwalban/programming/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -303,6 +304,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prajwalban/programming/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalban/programming/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prajwalban/programming/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalban/programming/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/prajwalban/programming/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
@@ -372,6 +374,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/prajwalban/programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/prajwalban/programming/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/prajwalban/programming/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalban/programming/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
 | ------- |
