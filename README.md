@@ -239,6 +239,7 @@
 | [0002-add-two-numbers](https://github.com/prajwalban/programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/prajwalban/programming/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/prajwalban/programming/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/prajwalban/programming/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/prajwalban/programming/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/prajwalban/programming/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/prajwalban/programming/tree/main/0292-nim-game/) | Easy |
@@ -562,6 +563,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/prajwalban/programming/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prajwalban/programming/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -585,6 +587,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/prajwalban/programming/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prajwalban/programming/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prajwalban/programming/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -592,6 +595,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalban/programming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/prajwalban/programming/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/prajwalban/programming/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prajwalban/programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prajwalban/programming/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -622,6 +626,7 @@
 | [0022-generate-parentheses](https://github.com/prajwalban/programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prajwalban/programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/prajwalban/programming/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/prajwalban/programming/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/prajwalban/programming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalban/programming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/prajwalban/programming/tree/main/0392-is-subsequence/) | Easy |
